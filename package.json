@@ -1,0 +1,25 @@
+{
+  "name": "wx-accesstoken",
+  "version": "1.0.0",
+  "description": "微信小程序&amp;小游戏接口调用凭证管理工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysdyyy/wx-accesstoken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysdyyy/wx-accesstoken/issues"
+  },
+  "homepage": "https://github.com/ysdyyy/wx-accesstoken#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mocha": "^7.0.0",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0"
+  }
+}
