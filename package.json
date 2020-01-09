@@ -1,6 +1,6 @@
 {
   "name": "wx-accesstoken",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "微信小程序&amp;小游戏接口调用凭证管理工具",
   "main": "index.js",
   "scripts": {
