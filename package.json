@@ -1,11 +1,18 @@
 {
   "name": "wx-accesstoken",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "微信小程序&amp;小游戏接口调用凭证管理工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "accessToken",
+    "accesstoken",
+    "token",
+    "微信",
+    "凭证"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ysdyyy/wx-accesstoken.git"
